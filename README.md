@@ -3,4 +3,4 @@ This project is an effort by [Motive.io](https://motive.io) and [Sciolytix](http
 
 ## Proposed Profile
 
-[Documentation Here](xapi-profile.md)
+[VR Profile Data Model](data-model.md)
