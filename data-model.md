@@ -17,7 +17,7 @@ Session Start | http://adlnet.gov/expapi/verbs/launched |  |  | Default CMI5 tha
 Focused | http://id.tincanapi.com/verb/focused |  |  | Indicates that a user has focused on a target object. This is the opposite of 'unfocused'. For example, it indicates that the user has clicked to focus or regain focus on the application, content or activity.
 Unfocused | http://id.tincanapi.com/verb/focused |  |  | Indicates that the user has lost focus of the target object. For example, this could be used when the user clicks outside a given application, window or activity.
 Donned | http://xapiprofile.org/xapi/verbs/donned | Real-world objects |  | The user has put on an object in the real world, like a hat or a VR headset.
-Doffed | http://xapiprofile.org/xapi/verbs/donned | Real-world objects |  | The user has taken an object off in the real world, like a hat or a VR headset.
+Doffed | http://xapiprofile.org/xapi/verbs/doffed | Real-world objects |  | The user has taken an object off in the real world, like a hat or a VR headset.
 Teleported | https://xapiprofile.org/xapi/verbs/teleported |  |  | The user has instanteously moved from one position to another.
 Grabbed | https://xapiprofle.org/xapi/verbs/grabbed |  |  | The user has grabbed a virtual object and is holding it.
 Released | https://w3id.org/xapi/dod-isd/verbs/released |  |  | Allow something to move, act, or flow freely.
